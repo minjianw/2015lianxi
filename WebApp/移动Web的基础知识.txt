@@ -1,0 +1,4 @@
+1.移动开发像素知识
+  px:css pixels逻辑像素，浏览器使用的抽象单位
+  dp,pt:device independent pixels设备无关像素
+  dpr:devicePixelRatio设备像素缩放比
